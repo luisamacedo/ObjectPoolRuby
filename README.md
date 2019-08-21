@@ -1,5 +1,4 @@
 # ObjectPoolRuby
-ObjectPoolRuby
 
 O Pool de Objetos permite que outras pessoas "façam check-out" de objetos de seu pool, quando esses objetos não são mais  necessários por seus processos, eles são retornados ao pool para serem reutilizados. 
 
